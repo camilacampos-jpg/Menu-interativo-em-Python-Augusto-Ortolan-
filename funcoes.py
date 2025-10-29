@@ -33,6 +33,7 @@ def listar_alunos(dados):
         print(f"{i}. Nome: {aluno['nome']} | Curso: {aluno['curso']} | Média: {aluno['media']}")
     print()
 
+
 def editar_aluno(dados):
     listar_alunos(dados)
     indice = int(input('Número do aluno a editar: ')) - 1
