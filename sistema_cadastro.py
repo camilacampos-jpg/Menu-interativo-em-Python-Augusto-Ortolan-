@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 import datetime
 import json
@@ -275,3 +276,7 @@ def menu_principal():
 # Inicia a execução do programa
 if __name__ == "__main__":
     menu_principal()
+=======
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+>>>>>>> 20413f92b18afc716c9c27f890afa1c3150593a7

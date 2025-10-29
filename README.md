@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[README.md](https://github.com/user-attachments/files/23175900/README.md)
+>>>>>>> 20413f92b18afc716c9c27f890afa1c3150593a7
 # Sistema de Cadastro de Alunos
 
 ## Integrantes do Grupo
@@ -33,4 +37,8 @@ O programa permanece em execução até que o usuário escolha explicitamente Sa
 
 ## Como Executar
 1.  Garanta a estrutura de pastas: **`Sistema_Cadastro_Alunos/dados/`**.
+<<<<<<< HEAD
 2.  Execute o arquivo `main.py` usando o comando no terminal: `python main.py`
+=======
+2.  Execute o arquivo `main.py` usando o comando no terminal: `python main.py`
+>>>>>>> 20413f92b18afc716c9c27f890afa1c3150593a7

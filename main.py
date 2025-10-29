@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CÓDIGO INÍCIO: main.py
 
 # Importa bibliotecas necessárias para manipular arquivos e datas
@@ -297,3 +298,7 @@ def menu_principal():
 if __name__ == "__main__":
     menu_principal()
 # CÓDIGO FIM: main.py
+=======
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+>>>>>>> 20413f92b18afc716c9c27f890afa1c3150593a7
