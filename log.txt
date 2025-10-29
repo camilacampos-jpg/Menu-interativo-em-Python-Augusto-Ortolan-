@@ -1,0 +1,5 @@
+[26/10/2025 14:26:53] - Ação: Arquivo de dados inexistente. Lista inicializada vazia.
+[26/10/2025 14:26:53] - Ação: Sistema iniciado
+[26/10/2025 14:51:55] - Ação: Opção de menu inválida
+[26/10/2025 14:53:36] - Ação: Opção de menu inválida
+[26/10/2025 14:54:04] - Ação: Opção de menu inválida
